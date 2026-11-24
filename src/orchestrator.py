@@ -29,6 +29,7 @@ from .scrapers.openbb import OpenBBScraper
 from .scrapers.ossinsight import OSSInsightScraper
 from .scrapers.gdelt import GDELTScraper
 from .scrapers.google_news import GoogleNewsScraper
+from .scrapers.nowcoder import NowcoderScraper
 from .ai.client import AIClient, create_ai_client
 from .ai.errors import AIProviderUnavailableError
 from .ai.analyzer import ContentAnalyzer
@@ -515,6 +516,13 @@ class HorizonOrchestrator:
             if self.config.sources.google_news and self.config.sources.google_news.enabled:
                 gn_scraper = GoogleNewsScraper(self.config.sources.google_news, client)
                 tasks.append(self._fetch_with_progress("Google News", gn_scraper, since))
+
+            # Nowcoder campus recruiting jobs
+            if self.config.sources.nowcoder and self.config.sources.nowcoder.enabled:
+                nowcoder_scraper = NowcoderScraper(self.config.sources.nowcoder, client)
+                tasks.append(
+                    self._fetch_with_progress("Nowcoder", nowcoder_scraper, since)
+                )
 
             # Fetch all concurrently
             outcomes = await asyncio.gather(*tasks)

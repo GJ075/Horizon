@@ -26,6 +26,10 @@
       "finance-news": {
         "threshold": 7.0,
         "topic_dedup": true
+      },
+      "campus-jobs": {
+        "threshold": 6.0,
+        "topic_dedup": false
       }
     }
   },
@@ -154,6 +158,13 @@
           "profile": ["tech-news", "finance-news"]
         }
       ]
+    },
+    "nowcoder": {
+      "enabled": true,
+      "queries": ["Agent", "大模型", "智能体"],
+      "max_items": 20,
+      "max_age_days": 120,
+      "profile": "campus-jobs"
     }
   },
   "collection": {
@@ -164,7 +175,8 @@
     "profile_order": [
       "tech-news",
       "tech-blog",
-      "finance-news"
+      "finance-news",
+      "campus-jobs"
     ],
     "category_groups": {},
     "default_group": "other",

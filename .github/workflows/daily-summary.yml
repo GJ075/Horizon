@@ -32,6 +32,14 @@ jobs:
       - name: Prepare GitHub Actions config
         run: cp data/config.github.json data/config.json
 
+      - name: Restore Nowcoder seen state
+        uses: actions/cache@v4
+        with:
+          path: data/nowcoder_seen.json
+          key: nowcoder-seen-${{ github.run_id }}
+          restore-keys: |
+            nowcoder-seen-
+
       - name: Run Horizon
         env:
           # Map secrets to environment variables expected by config.json

@@ -20,6 +20,7 @@ class SourceType(str, Enum):
     OSSINSIGHT = "ossinsight"
     GDELT = "gdelt"
     GOOGLE_NEWS = "google_news"
+    NOWCODER = "nowcoder"
 
 
 class SourceDefinition(NamedTuple):
@@ -41,6 +42,7 @@ SOURCE_REGISTRY = {
     SourceType.OSSINSIGHT.value: SourceDefinition("ossinsight"),
     SourceType.GDELT.value: SourceDefinition("gdelt"),
     SourceType.GOOGLE_NEWS.value: SourceDefinition("google_news"),
+    SourceType.NOWCODER.value: SourceDefinition("nowcoder"),
 }
 
 ProfileRoute = Optional[Union[str, List[str]]]
@@ -374,6 +376,20 @@ class TelegramConfig(BaseModel):
     channels: List[TelegramChannelConfig] = Field(default_factory=list)
 
 
+class NowcoderConfig(BaseModel):
+    """Nowcoder campus recruiting job search configuration."""
+
+    enabled: bool = True
+    queries: List[str] = Field(
+        default_factory=lambda: ["Agent", "大模型", "智能体"]
+    )
+    max_items: int = Field(default=20, gt=0)
+    max_age_days: int = Field(default=120, gt=0)
+    state_file: str = "data/nowcoder_seen.json"
+    category: Optional[str] = None
+    profile: ProfileRoute = None
+
+
 class TwitterConfig(BaseModel):
     """Twitter source configuration.
 
@@ -512,6 +528,7 @@ class SourcesConfig(BaseModel):
     ossinsight: OSSInsightConfig = Field(default_factory=OSSInsightConfig)
     gdelt: Optional[GDELTConfig] = None
     google_news: Optional[GoogleNewsConfig] = None
+    nowcoder: Optional[NowcoderConfig] = None
 
 
 class WebhookConfig(BaseModel):
