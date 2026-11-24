@@ -1,16 +1,13 @@
 {
   "ai": {
     "provider": "deepseek",
-    "model": "deepseek-v4-flash",
+    "model": "deepseek-chat",
     "base_url": "https://api.deepseek.com",
     "api_key_env": "DEEPSEEK_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
     "throttle_sec": 1,
-    "languages": [
-      "zh",
-      "en"
-    ],
+    "languages": ["zh"],
     "analysis_concurrency": 5,
     "enrichment_concurrency": 5
   },
@@ -177,13 +174,11 @@
     "enabled": true,
     "url_env": "HORIZON_WEBHOOK_URL",
     "delivery": "summary_and_items",
-    "overview_position": "last",
+    "overview_position": "first",
     "platform": "feishu",
-    "layout": "collapsible",
+    "layout": "markdown",
     "fallback_layout": "markdown",
-    "languages": [
-      "zh"
-    ],
+    "languages": ["zh"],
     "request_body": {
       "msg_type": "interactive",
       "card": {
@@ -202,7 +197,14 @@
           "elements": [
             {
               "tag": "markdown",
-              "content": "#{summary}"
+              "content": "Horizon 生成结果: #{result}\nHorizon 日报重要资讯数量: #{important_items}/#{all_items}"
+            },
+            {
+              "tag": "hr"
+            },
+            {
+              "tag": "markdown",
+              "content": "#{summary?limit=3000&split=---}"
             }
           ]
         }
