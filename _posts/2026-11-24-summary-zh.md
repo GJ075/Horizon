@@ -5,221 +5,166 @@ date: 2026-11-24
 lang: zh
 ---
 
-> 从 37 条内容中筛选出 13 条重要资讯。
+> 从 57 条内容中筛选出 31 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [英伟达董事会恢复黄仁勋 CEO 职务](#item-tech-news-1) ⭐️ 9.0/10
+1. [英伟达董事会据报恢复黄仁勋 CEO 职务](#item-tech-news-1) ⭐️ 9.0/10
 2. [Ladybird 浏览器发布首个 Alpha 版](#item-tech-news-2) ⭐️ 8.0/10
-3. [Z.ai 发布 GLM-5.4：首个循环 Transformer 编码模型](#item-tech-news-3) ⭐️ 8.0/10
-4. [Anthropic 仓库发布 VP ≠ VNP 形式化证明](#item-tech-news-4) ⭐️ 8.0/10
-5. [黎曼猜想「AI 证明」被指空转，作者承认代码质量低劣](#item-tech-news-5) ⭐️ 8.0/10
+3. [形式化数学仓库称证明 VP ≠ VNP 对所有域成立](#item-tech-news-3) ⭐️ 8.0/10
+4. [智谱发布 GLM-5.4：首个循环 Transformer 架构模型](#item-tech-news-4) ⭐️ 8.0/10
+5. [Codex2api 疑遭供应链投毒：v3.1.11 移除鉴权](#item-tech-news-5) ⭐️ 8.0/10
 6. [Stalwart 宣称可替代 Microsoft Exchange](#item-tech-news-6) ⭐️ 7.0/10
-7. [开源工具 nospeaker 让 MacBook 触控板振动发声](#item-tech-news-7) ⭐️ 7.0/10
-8. [Codex2api 疑遭供应链投毒，v3.1.11 移除鉴权](#item-tech-news-8) ⭐️ 7.0/10
-9. [Meta AI 负责人称超级智能将至，警告人类控制权堪忧](#item-tech-news-9) ⭐️ 7.0/10
-10. [SpaceX 据报向 Anthropic、Google 出租算力，月入数十亿美元](#item-tech-news-10) ⭐️ 7.0/10
-11. [4.5 万家企业组织联名致信欧盟，要求对苹果 iPhone 浏览器限制立案](#item-tech-news-11) ⭐️ 7.0/10
+7. [Zed 将 GPUI 框架拆分为独立仓库](#item-tech-news-7) ⭐️ 7.0/10
+8. [开源工具 nospeaker 让 MacBook 触控板振动发声](#item-tech-news-8) ⭐️ 7.0/10
+9. [黎曼猜想「AI 证明」被指空转，作者承认代码满是垃圾](#item-tech-news-9) ⭐️ 7.0/10
+10. [4.5 万家企业组织联名致信欧盟，要求对苹果 iPhone 浏览器限制立案](#item-tech-news-10) ⭐️ 7.0/10
+11. [神舟二十四号定于 25 日发射，乘组首次包含巴基斯坦航天员](#item-tech-news-11) ⭐️ 7.0/10
+12. [黄循财：新加坡不会成为规避美国芯片管制的通道](#item-tech-news-12) ⭐️ 7.0/10
 
 **财经新闻**
-1. [纽约联储主席威廉姆斯：通胀仍高，加息需“随时间推进”](#item-finance-news-1) ⭐️ 7.0/10
-2. [上海地铁票价 21 年来首次调整，12 月 1 日起实施](#item-finance-news-2) ⭐️ 7.0/10
+1. [纽约联储主席威廉姆斯：通胀仍高，加息需“随时间推进”](#item-finance-news-1) ⭐️ 8.0/10
+2. [黄仁勋回归英伟达，美股应声反弹](#item-finance-news-2) ⭐️ 7.0/10
+3. [Anthropic 创纪录 IPO 后 AI 股遭抛售，中国 AI 公司上市计划承压](#item-finance-news-3) ⭐️ 7.0/10
+4. [上海地铁票价 21 年来首次调整，12 月 1 日起实施](#item-finance-news-4) ⭐️ 7.0/10
+5. [马斯克承认 SpaceX 在 AI 领域落后，转而向 Anthropic 和 Google 出租算力](#item-finance-news-5) ⭐️ 7.0/10
+
+**校招岗位**
+1. [字节跳动 Agent 开发工程师校招](#item-campus-jobs-1) ⭐️ 10.0/10
+2. [百川智能 Agent 算法工程师校招岗位](#item-campus-jobs-2) ⭐️ 10.0/10
+3. [携程 2027 届秋招 Agent 开发工程师](#item-campus-jobs-3) ⭐️ 10.0/10
+4. [小米武汉 Agent Harness 研发工程师岗位](#item-campus-jobs-4) ⭐️ 10.0/10
+5. [小红书北京 AI 岗：本科可投 Agent 研发](#item-campus-jobs-5) ⭐️ 9.0/10
+6. [中城交（上海）Agent 开发工程师校招岗](#item-campus-jobs-6) ⭐️ 9.0/10
+7. [携程 2027 届秋招 AI Agent 开发岗](#item-campus-jobs-7) ⭐️ 9.0/10
+8. [快手快 Star 大模型 Agent 算法工程师（短视频推荐）](#item-campus-jobs-8) ⭐️ 9.0/10
+9. [快手快 Star Data Agent 研发工程师（2027 届本科）](#item-campus-jobs-9) ⭐️ 9.0/10
+10. [快手电商大模型应用算法工程师（2027 届）](#item-campus-jobs-10) ⭐️ 8.0/10
+11. [新华三苏州 AI 大模型算法工程师本科可投](#item-campus-jobs-11) ⭐️ 7.0/10
+12. [新华三 AI 大模型数据策略工程师校招](#item-campus-jobs-12) ⭐️ 6.0/10
+13. [百度大模型应用实习生（上海·2028 届）](#item-campus-jobs-13) ⭐️ 6.0/10
+14. [阿里巴巴杭州算法工程师：多模态为主，Agent 为辅](#item-campus-jobs-14) ⭐️ 6.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [英伟达董事会恢复黄仁勋 CEO 职务](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) ⭐️ 9.0/10
+### [英伟达董事会据报恢复黄仁勋 CEO 职务](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) ⭐️ 9.0/10
 
-据 CNBC 报道，英伟达董事会在短暂解除黄仁勋 CEO 职务后，又将其恢复。公司声明称，董事会在决策过程中听取了美国联邦政府高层意见，并据此认为黄仁勋复职不构成国家安全风险。报道未说明解除职务的具体原因、持续时间或董事会投票细节，相关说法目前仅来自报道与公司声明，尚缺乏独立核实。
+据 CNBC 报道，英伟达董事会已恢复黄仁勋的 CEO 职务，距其被迅速免职不到两周。公司声明称，董事会在决策过程中听取了美国联邦政府高层意见，并据此认为黄仁勋复职不构成国家安全风险。该消息目前主要依赖单一媒体报道，具体免职原因、董事会表决细节及政府介入方式均未获独立证实。
 
 hackernews · jaz · 11月23日 14:00 · [社区讨论](https://news.ycombinator.com/item?id=50611576)
 
-**「背景」** 英伟达董事会于 11 月 23 日宣布，黄仁勋即刻恢复担任总裁、首席执行官及董事会成员，董事会一致投票通过这一决定。此前黄仁勋曾被短暂免职，公司声明称董事会在与黄仁勋进行一系列讨论和会面后对其复职表示满意。
+**「背景」** 英伟达董事会于 11 月 23 日宣布，黄仁勋即刻恢复担任公司总裁、首席执行官及董事会成员，董事会投票为一致通过。据《卫报》报道，此次复职发生在唐纳德·特朗普直接介入英伟达董事会之后，是对此前迅速解除黄仁勋职务的戏剧性逆转。公司声明称，董事会在决策过程中收到了美国联邦政府高层人士的意见，并据此认为黄仁勋复职不构成国家安全风险。
 
-**「影响」** 董事会称其决定参考了美国联邦政府高层意见，并据此认定黄仁勋复职不构成国家安全风险；这意味着公司治理决策与政府审查直接挂钩，国会已被要求说明具体是哪些官员提供了何种意见。据 CNBC 报道，复职消息公布后英伟达股价大涨 31%，显示市场将人事恢复视为对现有业务路线的确认。
+**「后续影响」** 据路透社报道，美国两党议员对英伟达恢复黄仁勋首席执行官职务的决定提出尖锐批评，主张国会应收紧中国获取该公司先进 AI 芯片的限制。USA Today 报道称，黄仁勋将于 12 月 1 日出席参议院银行委员会作证，这意味着相关争议将很快进入公开的立法质询程序。
 
-**「社区讨论」** 多位评论者认为，声明中“听取美国政府高层意见”一句才是关键，反映出政府在此事中的直接介入。icyfox 援引特拉华州 Caremark 判例指出，董事会在此类事务中被认定失责的门槛很高，因此司法部不起诉的表态可能有助于消除董事的个人责任，但他也对董事会不到两周内从罢免转为一致复职感到意外。015UUZn8aEvW 则将此事与 2023 年 OpenAI 事件类比，认为公司的名义治理结构未必等于实际治理结构。
+**「社区讨论」** 有评论者认为，声明中“听取美国政府高层意见”一句才是关键，暗示政治因素在决策中起了作用。另有评论援引特拉华州 Caremark 判例指出，董事会在此类事务中被追责的门槛很高，若司法部同时表示不予起诉，董事个人责任可能被排除；该评论者还对董事会从迅速免职到全票复职的彻底反转感到意外。也有评论质疑外界预设英伟达存在违法行为，认为目前流出的情报并未支持这一判断。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director">NVIDIA Board Reinstates Jensen Huang as President, CEO and ...</a></li>
-<li><a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx">NVIDIA Corporation - NVIDIA Board Reinstates Jensen Huang as ...</a></li>
-<li><a href="https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-jensen-huang-reinstated-as-ceo-trump-says-no-reason-to-believe-huang-a-national-security-risk-152429808.html">Nvidia live updates: Jensen Huang reinstated as CEO; Trump says...</a></li>
-<li><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%</a></li>
-<li><a href="https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26">Jensen Huang reinstated as Nvidia CEO after security review</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive">Jensen Huang reinstated as Nvidia CEO after Trump intervenes</a></li>
+<li><a href="https://www.usatoday.com/story/money/2026/11/23/jensen-huang-reinstated-nvidia-ceo/92828717007/">Jensen Huang reinstated as Nvidia CEO, Trump says he ...</a></li>
+<li><a href="https://www.reuters.com/business/lawmakers-criticize-nvidia-decision-reinstate-huang-ceo-2026-11-23/">US lawmakers criticize Nvidia decision to reinstate Huang as ...</a></li>
+<li><a href="https://www.usatoday.com/story/news/politics/2026/11/23/congress-reaction-to-jensen-huang-nvidia-return/92925133007/">Congress raises national security questions over Jensen Huang ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#nvidia`, `#corporate-governance`, `#semiconductors`, `#export-controls`, `#ai-hardware`
+**标签**: `#nvidia`, `#semiconductors`, `#corporate-governance`, `#export-controls`, `#ai-hardware`
 
 ---
 
 <a id="item-tech-news-2"></a>
 ### [Ladybird 浏览器发布首个 Alpha 版](https://ladybird.org/posts/alpha/) ⭐️ 8.0/10
 
-独立浏览器项目 Ladybird 发布了首个 alpha 版本，macOS 和 Linux 用户现在可以直接下载安装，无需自行编译。该项目自行实现了 HTML 解析、CSS 引擎、布局、JavaScript 和 WebAssembly 等大部分核心组件，仅依赖 HarfBuzz 做文本整形、Skia 做 2D 图形、ffmpeg 处理视频以及 SQLite。官方说明这是 alpha 版，部分网站无法使用且偶尔会崩溃，用户可从浏览器内报告问题站点，并可在崩溃后查看报告再决定是否发送。
+从零构建的 Ladybird 浏览器发布了首个 alpha 版本，macOS 和 Linux 用户现在可以直接下载安装，无需自行编译。该项目自行实现了 HTML 解析、CSS 引擎、布局、JavaScript 和 WebAssembly 等大部分核心组件，仅依赖 HarfBuzz 做文本整形、Skia 做 2D 图形、ffmpeg 处理视频以及 SQLite。官方明确说明这是 alpha 版本，部分网站无法使用且会偶发崩溃，并鼓励用户通过浏览器内报告功能反馈问题、在崩溃后自行决定是否发送崩溃报告。
 
 hackernews · janvdberg · 11月23日 16:13 · [社区讨论](https://news.ycombinator.com/item?id=50614249)
 
-**「背景」** Ladybird 最初是 SerenityOS 社区内部基于自研库（如 LibWeb）开发的浏览器，2022 年 9 月由 SerenityOS 创始人 Andreas Kling 将其拆分为独立项目。SerenityOS 本身始于 2018 年，以“从零编写一切”的文化著称；Ladybird 分叉后不再受这一文化约束，转而采用 HarfBuzz、Skia、ffmpeg、SQLite 等成熟外部组件。
+**「背景」** Ladybird 是一个采用 BSD 2-Clause 许可证的开源浏览器，Linux 和 macOS 一直是其开发目标平台，此前规划在 2026 年推出 alpha、2027 年推出 beta。此次发布的 alpha 被官方定位为“规模不大但可用”的测试版本，面向愿意容忍缺陷并帮助报告问题的早期用户。
 
-**「实际影响」** 试用者报告多数网站渲染正常，包括运行 WebAssembly 版 ffmpeg 和 Pyodide 的工具页面，但依赖 service worker 与 web worker 组合的 Datasette Lite 报错失败，源码中对应位置留有 FIXME 标注。Ladybird 采用每个标签页独立进程的隔离方式，试用中七个 WebContent 进程内存占用从约 60 MB 到 819 MB 不等，说明现阶段资源开销仍需关注。
+**「实际影响」** 试用者报告多数网站渲染正常，包括运行 WebAssembly 版 ffmpeg 和 Pyodide 的工具页面，但依赖 service worker 与 web worker 组合的 Datasette Lite 会报错，源码中对应位置仍留有 FIXME 标注。Ladybird 采用每个标签页独立进程的隔离方式，试用中单个 WebContent 进程内存占用可达数百 MB，因此现阶段更适合作为测试和反馈对象，而非日常主力浏览器。
 
-**「社区讨论」** 多位评论者称实际测试中网站渲染正确，有人表示 NoVNC 的响应甚至比 Firefox 更流畅，也有人指出页面滚动略有卡顿。有评论者对项目改用 SQLite、Skia 等成熟库表示理解，但怀念早期 SerenityOS 时期自研一切的黑客精神；另有用户希望 Ladybird 未来认真处理浏览器指纹识别问题，并提供更细粒度的权限控制。
+**「社区讨论」** 多位评论者称自己测试的网站（包括 ProxMox 的 NoVNC 远程界面）渲染正确，有人觉得 NoVNC 比 Firefox 中更流畅，也有人指出页面滚动略有卡顿。另有评论者对 Ladybird 改用 SQLite、Skia 等成熟第三方库表示理解，但怀念 SerenityOS 时期自研一切的黑客精神；还有人希望项目未来认真处理浏览器指纹识别问题，提供更细粒度的权限控制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Ladybird_%28web_browser%29">Ladybird (web browser) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/SerenityOS">SerenityOS - Wikipedia</a></li>
-<li><a href="https://ladybird.org/">Ladybird Andreas Kling Ladybird: A new cross-platform browser project – Andreas ... Project History and Mission | LadybirdBrowser/ladybird | Zread Andreas Kling - Ladybird | Founderland</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ladybird_%28web_browser%29">Ladybird (web browser ) - Wikipedia</a></li>
+<li><a href="https://www.omgubuntu.co.uk/2026/11/ladybird-browser-enters-alpha">Ladybird browser reaches alpha after four years of... - OMG! Ubuntu</a></li>
+<li><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha - Ladybird</a></li>
 
 </ul>
 </details>
 
-**标签**: `#browsers`, `#open-source`, `#web-engines`, `#software-engineering`
+**标签**: `#browser-engine`, `#open-source`, `#ladybird`, `#web-platform`, `#software-release`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [Z.ai 发布 GLM-5.4：首个循环 Transformer 编码模型](https://z.ai/blog/glm-5.4) ⭐️ 8.0/10
+### [形式化数学仓库称证明 VP ≠ VNP 对所有域成立](https://github.com/anthropics/formal-math/tree/main/vp-vnp) ⭐️ 8.0/10
 
-中国 AI 实验室 Z.ai 发布 GLM-5.4，这是其首个采用循环 Transformer 架构的模型，定位为通用编码。按官方博客描述，标准 Transformer 每层在一次前向传播中只运行一次，而循环 Transformer 让一组共享权重的层多次迭代、逐轮细化隐藏状态，从而在不增加参数量的情况下加深网络。该模型目前未开放权重，也无法通过常规 API 访问，需订阅其 Coding Plan 才能调用；Coding Plan 与常规 API 共用同一套 OpenAI 兼容的 Responses API（https://api.z.ai/api/v1）。上述架构与可用性信息来自厂商博客和试用者描述，模型的实际编码能力尚未有独立评测。
+一个托管在 GitHub 上的形式化数学仓库（anthropics/formal-math）发布了一份论文，声称证明了 VP 不等于 VNP 对所有域成立，并附有 Lean 形式化代码。该结论若成立，将构成复杂性理论中与 P vs NP 相关的重大分离结果，但目前仅有标题、链接和社区讨论可供判断，缺少摘要、证明细节与独立验证。论文作者自己指出，尚未分析该证明与相对化（relativization）和代数化（algebrization）的关系，这是评估此类分离结果时必须面对的关键限制。
 
-hackernews · foohis · 11月23日 10:06 · [社区讨论](https://news.ycombinator.com/item?id=50609685)
+hackernews · mikeryan52 · 11月23日 22:09 · [社区讨论](https://news.ycombinator.com/item?id=50620102)
 
-**「背景」** GLM-5.4 是智谱/Z.ai 首个采用循环 Transformer（Loop Transformer）架构的模型：一组共享权重的层在一次前向传播中重复运行多次，以在不增加参数量的情况下加深网络。这一架构近期已有先例——Thinking Machines Lab 于 11 月 20 日发布的 Inkling 2 Mini 同样采用循环 Transformer，其中间层对每个 token 运行三次，官方称可在 agentic coding 等依赖推理质量的任务上以更少 token 得到答案。
+**「背景」** VP 与 VNP 是 P 与 NP 在代数复杂度理论中的对应问题，二者是彼此独立的问题；此次声称的结论针对的是 VP ≠ VNP，而非 P ≠ NP。该结果以 Lean 形式化证明的形式发布在 formal-math 仓库中，而 Lean 是开源证明助手，它只能核验证明与其形式化陈述一致，并不能确认该陈述准确表达了论文的意图。
 
-**「对使用者的影响」** 想试用 GLM-5.4 的开发者目前只能走 Coding Plan 订阅，常规 API 和 OpenRouter 均未提供该模型；试用者 Simon Willison 发现 Coding Plan 的 API key 可直接用于同一 Responses API 端点。由于尚无开放权重，本地部署或第三方托管暂时不可行，已有插件（如 llm-zai）也需更新才能支持新模型。
+**「影响与注意事项」** 对关注复杂性理论的研究者而言，这一声明需要先经过同行评审和独立复核，尤其是作者承认未处理相对化与代数化障碍，读者不宜将其视为已确立的定理。若证明经受住检验，VP 与 VNP 的分离将影响代数复杂性中下界研究的路线；在此之前，引用时应明确标注为“声称的证明”而非已确认结果。
 
-**「社区讨论」** 有评论者赞赏 Zhipu 公开架构细节，认为循环 Transformer 是 SOTA 模型的自然演进方向，并指出原始 Transformer 类似展开的 for 循环、人为地把不同权重配对。另一位评论者解释，循环结构可缓解推理时逐层搬运权重带来的内存带宽瓶颈。也有用户抱怨部分中国模型在简单任务上反复“自我怀疑”、完成时间明显拉长，怀疑这是其在基准测试中取得接近成绩的方式。
+**「社区讨论」** 有评论者认为这像是朝 P vs NP 这一“圣杯”推进过程中的阶段性成果，也有人担忧 AI 工具正在快速吞没可研究的数学问题。另有评论直接引用论文原文，提醒作者未分析相对化与代数化，这一限制被视为评估结论的重要保留意见。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
-<li><a href="https://huggingface.co/blog/inkling2mini">Welcome Inkling 2 Mini , Cutting-edge Performance for your Local Setup</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean ( proof assistant) - Wikipedia</a></li>
+<li><a href="https://www.alphaxiv.org/abs/2611.vp-vnp-arithmetic-lower-bounds">VP VNP Over Every Field | alphaXiv</a></li>
+<li><a href="https://lean-lang.org/">Lean Programming Language</a></li>
 
 </ul>
 </details>
 
-**标签**: `#llm`, `#model-architecture`, `#coding-assistants`, `#open-source-ai`, `#transformer`
+**标签**: `#complexity-theory`, `#formal-verification`, `#Lean`, `#theoretical-computer-science`, `#P-vs-NP`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [Anthropic 仓库发布 VP ≠ VNP 形式化证明](https://github.com/anthropics/formal-math/tree/main/vp-vnp) ⭐️ 8.0/10
+### [智谱发布 GLM-5.4：首个循环 Transformer 架构模型](https://z.ai/blog/glm-5.4) ⭐️ 8.0/10
 
-Anthropic 的 formal-math 仓库中发布了一篇形式化数学论文，声称证明了 VP ≠ VNP 在所有域上成立。该结果以 Lean 形式化代码的形式托管在 GitHub 上，论文本身明确表示尚未分析该结果与相对化（relativization）和代数化（algebrization）的关系，因此它与 P vs NP 这一更广泛问题的关联仍不确定。目前可获得的证据主要是仓库链接和社区讨论，尚无法独立核实证明的完整性与正确性。
+智谱（Z.ai）发布 GLM-5.4，这是其首个采用循环 Transformer 架构的模型。按官方博客描述，该架构让一组共享权重的层在一次前向传播中运行多次迭代，从而在不增加参数量的情况下加深网络。GLM-5.4 目前未开放权重，也无法通过常规 API 套餐访问，需订阅 Coding Plan 才能调用；其接口与常规 API 共用 OpenAI 兼容的 Responses API（https://api.z.ai/api/v1）。上述架构效果均为厂商说法，尚无独立评测验证。
 
-hackernews · mikeryan52 · 11月23日 22:09 · [社区讨论](https://news.ycombinator.com/item?id=50620102)
+hackernews · foohis · 11月23日 10:06 · [社区讨论](https://news.ycombinator.com/item?id=50609685)
 
-**「背景」** VP 与 VNP 是 Valiant 于 1979 年提出的代数复杂度类，被视为 P 与 NP 问题的代数类比。据外部报道，Anthropic 于 2026 年 11 月 23 日在其 formal-math 仓库新增 vp-vnp 项目，包含一篇署名 Claude（Anthropic）的约 70 页论文、约 324 个 Lean 文件及 Lean 4 形式化证明，但仓库 README 明确说明尚无人类数学家核验该证明，且该工作为 Anthropic 不维护的研究产物。
+**「背景」** 循环 Transformer 的核心思路是让同一组共享权重的层在一次前向传播中重复运行多次，从而在不增加参数量的情况下加深有效网络深度。据来源文章，Thinking Machines Lab 在 2026 年 11 月 20 日发布的 Inkling 2 Mini 也采用了这一架构，将模型中间层对每个 token 运行三次，以用更少 token 完成推理。GLM-5.4 是 Z.ai 首个采用该架构的模型，目前尚未提供开放权重，需通过其 Coding Plan 订阅访问。
 
-**「影响」** 该论文自述尚未分析其结果与相对化（relativization）及代数化（algebrization）屏障的关系，而这两类屏障正是复杂性理论中限制 VP ≠ VNP 一类分离证明的已知障碍。因此，在屏障问题得到澄清之前，读者不宜把这一形式化结果直接视为对 P vs NP 的推进。
+**「实际影响」** 对开发者而言，想试用 GLM-5.4 需先订阅 Coding Plan，现有 llm-zai 插件尚未支持该模型，Simon Willison 为此另写了 llm-glm 插件作为过渡。循环 Transformer 通过复用权重减少层间内存搬运，若该方向被更多厂商采用，可能影响推理成本与部署方式的选择。
 
-**「社区讨论」** 有评论者认为这是 Anthropic 在冲击 P vs NP 这一“圣杯”过程中发布的阶段性成果，也有人担忧数学研究生可选题目的空间会被 AI 快速压缩。另有评论直接引用论文原文，指出作者未分析该结果与相对化和代数化的关系，从而对结论的适用范围提出保留。
+**「社区讨论」** 有评论者赞赏智谱公开技术细节的做法，认为循环 Transformer 是自然的方向，原版 Transformer 类似展开的 for 循环，把注意力与知识权重不自然地配对。另有用户指出，部分中国模型在简单任务上也会长时间反复思考，完成时间明显长于前沿模型，怀疑这是其在基准测试中接近对手的方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://casrai.org/news/anthropic-claude-authored-vp-vnp-proof-unverified-lean-2026">Claude-Authored VP ≠ VNP Proof Posted, Unchecked — CASRAI</a></li>
-<li><a href="https://explainx.ai/blog/anthropic-claude-vp-vnp-valiant-lean-proof-claimed-vs-verified-2026">VP ≠ VNP Lean Proof: Claimed vs Verified (2026) | explainx.ai ...</a></li>
-<li><a href="https://news.lavx.hu/article/anthropic-publishes-claimed-proof-that-vp-vnp-over-every-field">Anthropic Publishes Claimed Proof That VP ≠ VNP Over Every Field</a></li>
-<li><a href="https://cs.stackexchange.com/questions/51087/do-we-have-to-overcome-any-barriers-for-a-proof-of-vp-neq-vnp-proof">complexity theory - Do we have to overcome any barriers for a proof...</a></li>
-<li><a href="https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/SCOTT/alg.pdf">Algebrization : A New Barrier in Complexity Theory</a></li>
-<li><a href="https://www.researchgate.net/publication/221591658_Algebrization_A_new_barrier_in_complexity_theory">Algebrization : A new barrier in complexity theory | Request PDF</a></li>
+<li><a href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and">GPT-6 Astra, Looped Transformers , and Hidden Reasoning</a></li>
+<li><a href="https://www.youtube.com/watch?v=TPtfyKEAk6c">This New AI Architecture Makes Local Models Smarter - YouTube</a></li>
 
 </ul>
 </details>
 
-**标签**: `#complexity-theory`, `#formal-methods`, `#Lean`, `#AI-for-math`, `#research`
+**标签**: `#LLM architecture`, `#loop transformer`, `#coding models`, `#open model transparency`, `#Zhipu GLM`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [黎曼猜想「AI 证明」被指空转，作者承认代码质量低劣](https://x.com/i/web/status/2124987173439209561) ⭐️ 8.0/10
+### [Codex2api 疑遭供应链投毒：v3.1.11 移除鉴权](https://github.com/WormW/codex2api-incident-2026-11) ⭐️ 8.0/10
 
-Alpöge 与 Claude 宣称证明了黎曼猜想及其广义版本，但只公开了约 1700 万行 Lean 代码、17.5 万个文件，没有提供人类可读的证明。Lean 与 Mathlib 社区次日表示，对代码证明了这一命题「有充分信心」。随后有研究者指出，关键定义被写成恒真、几何条件形同虚设，证明可能只是空转。23 日 Alpöge 承认「25 万页是玩笑」，代码「满是垃圾但能编译」，并称批评完全合理。
-
-telegram · zaihuapd · 11月24日 01:29
-
-**「背景」** 黎曼猜想是数学界最著名的未解难题之一，其形式化验证通常依赖 Lean 与 Mathlib 生态。据外部报道，Anthropic 数学家 Levent Alpöge 于 2026 年 11 月 20 日发布一份四页说明，称与 Claude 合作找到了黎曼猜想的证明，并声称同时覆盖 Dirichlet L 函数的广义黎曼猜想；随后 Lean 社区对约 1700 万行代码进行了验证。
-
-**「影响」** 这一事件表明，形式化验证通过编译并不等于数学证明成立：如果定义被写成恒真，Lean 检查器仍会接受，但证明内容可能空洞。对使用 AI 生成形式化证明的研究者而言，需要同时审查定义是否非平凡、是否有人类可读的论证，而不能只依赖「代码能编译」作为正确性依据。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis - Wikipedia</a></li>
-<li><a href="https://www.youtube.com/watch?v=aDl7-MWFLVc">17 Million Lines Claim to Prove Riemann . We Ran Them. - YouTube</a></li>
-<li><a href="https://www.zerohedge.com/science/did-claude-just-solve-maths-most-famous-problem-even-anthropics-mathematician-admits-timing">Mathematicians Confirm Claude Solved Math&#x27;s Most... | ZeroHedge</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI for mathematics`, `#Lean theorem proving`, `#formal verification`, `#Riemann Hypothesis`, `#AI research criticism`
-
----
-
-<a id="item-tech-news-6"></a>
-### [Stalwart 宣称可替代 Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) ⭐️ 7.0/10
-
-开源邮件服务器 Stalwart 在官方博客中宣布，它现在可作为 Microsoft Exchange 的“直接替代品”（drop-in replacement）。该说法来自厂商博客，尚无独立技术验证，也未提供具体版本号、兼容范围或部署条件。评论者对该表述提出质疑，认为 Outlook 集成、Office 365 捆绑以及新版 Outlook 对 IMAP 的改动，使“直接替代”难以成立。
-
-hackernews · shaunpud · 11月23日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=50620349)
-
-**「背景」** Stalwart 是一款开源邮件服务器。其项目维护者在发布说明中称，此次随 Stalwart 1.2.0 版本推出 Exchange 兼容能力，并把它定位为 Microsoft Exchange 的“直接替代品”。此前，在企业环境中，Exchange 长期是邮件服务器的默认选择，Outlook 则是配套客户端。
-
-**「对用户的实际影响」** 对德国等受 GoBD 约束的组织而言，Stalwart 的常规方案和开源版本均不包含不可篡改、可保留至多 10 年并供税务审计调取的邮件归档功能，因此不能单独满足合规要求，仍需搭配专门的归档系统。此外，评论者指出 Outlook 集成和 MAPI 支持是“直接替换”的关键门槛，而新版 Outlook 对 IMAP 的同步方式正在变化，迁移前应验证客户端兼容性。
-
-**「社区讨论」** 有评论者指出，德国自由职业者和企业须按 GoBD 要求将邮件不可篡改地归档并保留最长 10 年，而 Stalwart 的常规方案和开源版本均不包含该功能。另有评论认为，支持 MAPI 等微软协议会加深协议层面的锁定，长期不利于开放邮件生态；也有人质疑其与 Postfix/Dovecot 组合相比是否更适合小型服务器。还有评论提到 Stalwart 是 Mozilla Thundermail 使用的邮件服务器。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://stalw.art/blog/microsoft-exchange-replacement/">Stalwart is now a drop-in replacement for Microsoft Exchange | Stalwart</a></li>
-<li><a href="https://www.cleartax.com/de/en/gobd-standards-germany">What is GoBD in Germany? Archiving Rules &amp; Compliance ...</a></li>
-<li><a href="https://www.pwc.de/en/steuern/we-will-make-sure-you-are-gobd-compliant.html">GoBD Compliance - PwC</a></li>
-<li><a href="https://onecorp.eu/en/ratgeber/email-archiving-requirements">Email Archiving Requirements in Germany (GoBD) | oneCorp</a></li>
-
-</ul>
-</details>
-
-**标签**: `#email`, `#open-source`, `#self-hosting`, `#microsoft-exchange`, `#infrastructure`
-
----
-
-<a id="item-tech-news-7"></a>
-### [开源工具 nospeaker 让 MacBook 触控板振动发声](https://m.mydrivers.com/newsview/1167826.html?ref=https%3A//www.google.com/) ⭐️ 7.0/10
-
-开发者 Cody Collier 开源了 nospeaker，通过驱动 MacBook Force Touch 触控板下的触觉马达，以最高每秒 4000 次的频率让玻璃振动到人耳可闻，从而“念出”文字。该工具借助 macOS 语音合成读入文本，每 10 毫秒提取两个共振峰，并连同响度、音高一起重放，听感偏机器人化；实测可发声范围为 100 Hz 至 4 kHz，1 kHz 附近最清晰。它只能朗读文字，无法播放音乐或视频，且绕开苹果公开的触觉接口、调用私有框架 MultitouchSupport。作者称目前仅在搭载 M5 Max 的 MacBook Pro 上跑通，需要 Force Touch 触控板。
-
-telegram · zaihuapd · 11月23日 07:16
-
-**「背景」** MacBook 的 Force Touch 触控板依靠触觉马达模拟按压反馈，苹果并未公开允许第三方直接驱动该马达发声的接口。此前已有报道介绍 Cody Collier 的 nospeaker 项目，说明其原理是把触控板当作声源；本次消息则补充了 4000 Hz 驱动频率、每 10 毫秒采样共振峰以及仅在 M5 Max 机器上验证等具体实现细节。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.macrumors.com/2026/11/23/macbook-trackpad-turns-into-a-speaker/">Developer Turns MacBook Trackpad Into a Speaker Using Haptic ...</a></li>
-<li><a href="https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music">MacBook modder turns Apple’s Force Touch trackpad into a speaker ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#open source`, `#haptics`, `#macOS`, `#speech synthesis`, `#hardware hacking`
-
----
-
-<a id="item-tech-news-8"></a>
-### [Codex2api 疑遭供应链投毒，v3.1.11 移除鉴权](https://github.com/WormW/codex2api-incident-2026-11) ⭐️ 7.0/10
-
-据 Telegram 频道转述的一份事件复盘，Codex2api 项目作者账号被入侵，攻击者绕过 main 分支直接推送 tag，使 Release 构建出带后门的版本。v3.1.11 移除了鉴权，等同于可无密码远程执行命令；同时有 workflow 将仓库中的 16 个 GitHub Actions secrets 外传，波及同一账号下至少 21 个仓库。该消息建议安装或更新过 3.1.10–3.1.12 的用户立即停用并回退到 3.1.9，同时轮换 GitHub token、SSH key、数据库及 DeepSeek 等相关密钥。上述细节来自单一 Telegram 帖子的转述，尚未获得独立验证，项目实际影响范围也不明确。
+据 Telegram 频道转述的事件复盘，开源项目 Codex2api 的作者账号被入侵，攻击者绕过 main 分支直接推送 tag，使 Release 构建出带后门的版本。被指受影响的 v3.1.11 移除了鉴权，可被无密码远程执行命令；同时有 workflow 将仓库的 16 个 Actions secrets 外传，波及同一账号下至少 21 个仓库。上述说法目前仅来自单一来源的复盘与转述，尚未见到独立验证。
 
 telegram · zaihuapd · 11月23日 11:21
 
-**「背景」** 据社区成员发布的事件复盘，攻击者利用仓库所有者账号凭据直接推送 tag、绕过 main 分支，在 11 月 23 日约 13:00 至 14:00 的一个多小时内连续发布了 v3.1.10、v3.1.11 和 v3.1.12 三个带后门的版本，这些版本随后已从 GitHub 移除。该复盘与 Telegram 帖子的说法一致，但均属社区来源，尚未见项目方或独立机构的确认。
+**「背景」** 据社区成员发布的事件复盘，攻击者利用仓库所有者账号凭据直接推送 tag、绕过 main 分支，在 11 月 23 日约 13:00 至 14:00 的一个多小时内连续发布了 v3.1.10、v3.1.11 和 v3.1.12 三个带后门的版本。这些版本随后已从 GitHub 移除，维护者于 2026 年 11 月 23 日 10:50 UTC 发布了紧急安全更新 v3.2.0。
 
-**「影响与处置」** 使用 3.1.10–3.1.12 版本的部署可能已暴露在无鉴权的远程命令执行风险下，且相关仓库的 Actions secrets 可能已被外传。受影响用户应按报告建议回退到 3.1.9，并轮换 GitHub token、SSH key、数据库和 DeepSeek 等所有相关凭据；在官方或独立验证出现前，应将该版本区间视为不可信。
+**「处置建议」** 转述建议已安装或更新过 3.1.10–3.1.12 的用户立即停用并回退到 3.1.9，同时轮换 GitHub token、SSH key、数据库和 DeepSeek 等相关密钥。由于泄露范围涉及同一账号下的多个仓库，仅回退版本不足以消除风险，凭据轮换是必要的补救步骤。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -229,66 +174,115 @@ telegram · zaihuapd · 11月23日 11:21
 </ul>
 </details>
 
-**标签**: `#supply-chain-security`, `#github-actions`, `#open-source`, `#security-incident`, `#credential-rotation`
+**标签**: `#supply-chain-security`, `#github-actions`, `#secrets-management`, `#open-source-security`, `#incident-response`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [Stalwart 宣称可替代 Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) ⭐️ 7.0/10
+
+开源邮件服务器 Stalwart 发布博客，宣称自己已成为 Microsoft Exchange 的“直接替代品”（drop-in replacement），即面向希望迁移 Exchange 的组织提供兼容功能。由于没有提供正文内容，具体支持哪些 Exchange 协议、客户端兼容范围、版本号与可用条件均无法核实，该说法目前属于厂商声明而非经独立验证的能力。
+
+hackernews · shaunpud · 11月23日 22:32 · [社区讨论](https://news.ycombinator.com/item?id=50620349)
+
+**「背景」** Stalwart 是一个用 Rust 编写的开源邮件与协作服务器。据 Linuxiac 报道，其 1.2 版本新增了对 Microsoft Exchange 协议的兼容，使组织可以在继续使用 Outlook 等现有客户端的情况下自托管邮件服务。此前，这类 Exchange 兼容能力通常只存在于微软自家产品中，而开源邮件栈多依赖 IMAP/SMTP 等通用协议。
+
+**「实际影响」** 对需要满足德国 GoBD 等法规的企业而言，Stalwart 的常规方案和开源版本不包含不可篡改、可保留至多 10 年的邮件归档功能，因此若要用它替代 Exchange，仍需另行部署归档方案（如 Piler 这类支持防篡改留存的开源归档工具）或购买相应服务。评论者还指出，新版 Outlook 会强制将 IMAP 邮件同步一份到微软，这意味着即便服务器端换成 Stalwart，客户端侧的迁移成本和数据留存条件仍受微软产品约束。
+
+**「社区讨论」** 评论者对“直接替代”的措辞普遍持保留态度：traceroute66 认为这一定位被夸大，指出新版 Outlook 会强制把 IMAP 邮件同步到微软，且 Office 365 捆绑订阅削弱了替代动机；andreashaerter 认为 MAPI 等兼容支持只是节省授权成本、争取时间，反而会加固微软邮件生态的锁定。rmoriz 则指出德国 GoBD 要求邮件不可删除、不可篡改并可供税务部门访问最长 10 年，而 Stalwart 的常规方案和开源版本都不具备该归档功能。另有评论提到 Stalwart 是 Mozilla Thundermail 所用的邮件服务器，drnick1 则询问它与 Postfix/Dovecot 组合在小规模部署下的对比。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://stalw.art/blog/microsoft-exchange-replacement/">Stalwart is now a drop-in replacement for Microsoft Exchange</a></li>
+<li><a href="https://linuxiac.com/stalwart-1-2-offers-open-source-microsoft-exchange-replacement/">Stalwart 1.2 Offers Open-Source Microsoft Exchange Replacement</a></li>
+<li><a href="https://www.mailpiler.org/">Piler - Open Source Email Archiving</a></li>
+
+</ul>
+</details>
+
+**标签**: `#email`, `#open-source`, `#self-hosting`, `#microsoft-exchange`, `#interoperability`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [Zed 将 GPUI 框架拆分为独立仓库](https://github.com/zed-industries/gpui) ⭐️ 7.0/10
+
+Zed 的 Rust UI 框架 GPUI 正在从编辑器代码库中拆分出来，迁入独立仓库 zed-industries/gpui。此举让开发者可以脱离 Zed 编辑器单独获取和使用该框架，而此前它内嵌在编辑器仓库中。目前公开信息仅为仓库层面的组织调整，尚无关于版本号、发布渠道或 API 稳定性的说明。
+
+hackernews · EvilGoose · 11月23日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=50619103)
+
+**「背景」** GPUI 是 Zed 编辑器使用的 Rust GPU 加速 UI 框架，此前一直作为 Zed 主仓库中的 \`crates/gpui\` 子目录开发和发布。其 README 说明该框架仍处于 pre-1.0 活跃开发阶段，版本之间常有破坏性变更，并要求使用最新稳定版 Rust。此次拆分意味着开发者可以不再依赖编辑器仓库来单独获取和使用 GPUI。
+
+**「对开发者的影响」** 对希望采用 GPUI 的 Rust 桌面应用开发者而言，独立仓库降低了获取和跟踪框架代码的门槛，不必再在编辑器仓库中定位相关代码。但拆分本身不保证 API 稳定或提供独立发布包，实际集成前仍需确认构建方式与依赖条件。
+
+**「社区讨论」** 多位评论者对拆分表示欢迎：giancarlostoro 称此前想用 GPUI 但觉得它藏在编辑器仓库里很别扭，echelon 表示 ArtCraft 团队将使用 GPUI，并提到他们已 fork egui 但仍有无法覆盖的场景。chubs 则称赞 gpui-kit 组件丰富，称自己刚用 iced 写完桌面应用后对 GPUI 颇为羡慕；也有 drnick1 认为示例代码印证了 Rust 的冗长，scronkfinkle 则为 egui 的实际使用体验辩护。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/zed-industries/zed/blob/main/crates/gpui/README.md">zed /crates/ gpui /README.md at main · zed -industries/ zed · GitHub</a></li>
+<li><a href="https://gpui.rs/">GPUI</a></li>
+
+</ul>
+</details>
+
+**标签**: `#rust`, `#gui-frameworks`, `#open-source`, `#zed`, `#developer-tools`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [开源工具 nospeaker 让 MacBook 触控板振动发声](https://m.mydrivers.com/newsview/1167826.html?ref=https%3A//www.google.com/) ⭐️ 7.0/10
+
+开发者 Cody Collier 开源了 nospeaker，通过驱动 MacBook 触控板下的触觉马达以每秒 4000 次的频率振动，使玻璃面板振动到人耳可闻，从而“念出”文字。该工具借助 macOS 语音合成读取文字，每 10 毫秒提取两个共振峰，并连同响度、音高一起重放，听感偏机器人化；实测在 100 Hz 至 4 kHz 范围内有声，1 kHz 附近最清晰。它只能朗读文字，无法播放音乐或视频，且绕开苹果公开的触觉接口、调用私有框架 MultitouchSupport，需要 Force Touch 触控板，作者称仅在 M5 Max 的 MacBook Pro 上跑通。
+
+telegram · zaihuapd · 11月23日 07:16
+
+**「背景」** MacBook 的 Force Touch 触控板内置触觉马达，原本用于模拟按压时的“咔哒”反馈，而非播放声音。Cody Collier 的 nospeaker 正是把这一马达当作振动声源，通过高频驱动让触控板玻璃振动发声。
+
+**「影响」** 由于依赖私有框架和特定硬件，普通用户在其他 Mac 机型上的可用性尚未得到验证，尝试前需自行承担兼容性风险；该工具也仅支持文字朗读，不能作为通用音频输出方案。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.macrumors.com/2026/11/23/macbook-trackpad-turns-into-a-speaker/">Developer Turns MacBook Trackpad Into a Speaker Using Haptic ...</a></li>
+<li><a href="https://www.tomshardware.com/laptops/macbooks/macbook-modder-turns-apples-force-touch-trackpad-into-a-speaker-using-haptic-engine-macbook-talks-using-only-vibrations-from-the-motor-can-play-speech-tones-and-even-music">MacBook modder turns Apple’s Force Touch trackpad into a speaker ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#open-source`, `#haptics`, `#macOS`, `#speech-synthesis`, `#hardware-hacking`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Meta AI 负责人称超级智能将至，警告人类控制权堪忧](https://thenextweb.com/news/metas-ai-chief-says-superintelligence-is-arriving-and-control-is-at-risk) ⭐️ 7.0/10
+### [黎曼猜想「AI 证明」被指空转，作者承认代码满是垃圾](https://x.com/i/web/status/2124987173439209561) ⭐️ 7.0/10
 
-Meta 首席 AI 官、超级智能实验室负责人 Alexandr Wang 在 X 发长文称，超级智能已不再是“未来某天”的议题。他以数学家 Levent Alpöge 借助 Anthropic 的 Claude 完成、并于周六经 Lean 与 Mathlib 社区机器校验的黎曼猜想证明为例，认为 AI 与顶尖人类的差距只剩具体知识、工程整合与实验三块。他警告人类很难继续掌控可无限自我改进、或比自己聪明 1000 倍的系统，呼吁紧急投入安全、对齐与防护研究。该证明目前尚无人类可读版本，相关说法尚未获得独立验证。
+Alpöge 与 Claude 宣称证明了黎曼猜想及其广义版本，但只公开了约 1700 万行 Lean 代码、17.5 万个文件，没有提供人类可读的证明。Lean 与 Mathlib 社区次日表示，对代码证明了这一命题「有充分信心」。随后有研究者指出，关键定义被写成恒真、几何条件形同虚设，证明可能只是空转。23 日 Alpöge 承认「25 万页是玩笑」，代码「满是垃圾但能编译」，并称批评完全合理。
 
-telegram · zaihuapd · 11月23日 12:49
+telegram · zaihuapd · 11月24日 01:29
 
-**「背景」** Alexandr Wang 所举的例子是数学家 Levent Alpöge 借助 Anthropic 的 Claude 完成的黎曼猜想证明。据《卫报》报道，Alpöge 称自己用该 AI 工具耗时六周完成这一 19 世纪难题；《科学美国人》则指出，独立数学家在周五已核实该证明确实实现了 Alpöge 所声称的结果。
-
-**「影响与关注点」** 对 AI 安全与对齐研究者而言，这一表态把“超级智能是否临近”的争论具体化为可核查的案例：该黎曼猜想证明目前只有机器校验、没有人类可读版本，因此其数学意义与 AI 能力含义都需等待人工审阅和独立复核后才能判断。
+**「背景」** 据外部报道，Anthropic 数学家 Levent Alpöge 于 2026 年 11 月 20 日发布一份四页说明，称与 Claude 合作找到了黎曼猜想的证明，并涵盖 Dirichlet L 函数的广义黎曼猜想。随后公开的材料是约 1700 万行 Lean 代码、17.5 万个文件，而非人类可读的证明，这使争议集中在形式化代码是否真正证明了命题，而非 AI 是否参与了推导。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai">Two groups verify mathematician’s claim that Claude ... | The Guardian</a></li>
-<li><a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">The AI Riemann hypothesis proof is true... | Scientific American</a></li>
+<li><a href="https://www.youtube.com/watch?v=aDl7-MWFLVc">17 Million Lines Claim to Prove Riemann . We Ran Them. - YouTube</a></li>
+<li><a href="https://news.cgtn.com/news/2026-11-22/New-era-for-math-AI-helps-prove-the-167-year-old-Riemann-hypothesis-1ShAhHwzc1a/p.html">New era for math? AI helps prove the 167-year-old Riemann hypothesis</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI safety`, `#superintelligence`, `#Lean/Mathlib`, `#AI research`, `#Meta`
+**标签**: `#AI for mathematics`, `#Lean`, `#formal verification`, `#Riemann Hypothesis`, `#AI hype`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [SpaceX 据报向 Anthropic、Google 出租算力，月入数十亿美元](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) ⭐️ 7.0/10
-
-《纽约时报》11 月 23 日报道称，SpaceX 自今年 5 月起每月从其数据中心向 Anthropic、Google 等公司出租算力，月收入达数十亿美元。三名知情人士称，马斯克向员工表示 SpaceX 在 AI 上落后，出租算力比自用更赚钱，并在 8 月一度把部门群聊改名为“Sell compute because we can&\#x27;t compete”，还警告浪费 GPU 的员工将被要求离开。上述收入数字与内部说法均来自匿名消息源，尚未获得 SpaceX、Anthropic 或 Google 的公开确认。
-
-telegram · zaihuapd · 11月24日 02:06
-
-**「背景」** 《纽约时报》11 月 23 日的报道本身即指出，SpaceX 向包括 Anthropic 在内的竞争对手出租数据中心算力，反而使其自身 AI 业务推进更困难。Quartz 同日援引该报道称，SpaceX 自 5 月起通过向 Anthropic、Google 等公司出租算力，每月获得数十亿美元收入。
-
-**「影响」** 若报道属实，SpaceX 的数据中心资源正从内部 AI 研发转向对外算力租赁，Anthropic 与 Google 则成为其外部客户；这一安排的具体规模、合同期限和算力类型均未披露，相关方也未确认，因此尚不能视为已核实的商业合作。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html">Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times</a></li>
-<li><a href="https://qz.com/spacex-leases-computing-power-anthropic-google-ai-112326">SpaceX leases computing power to Anthropic, Google ... - Quartz</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI infrastructure`, `#compute`, `#SpaceX`, `#Anthropic`, `#industry news`
-
----
-
-<a id="item-tech-news-11"></a>
 ### [4.5 万家企业组织联名致信欧盟，要求对苹果 iPhone 浏览器限制立案](https://appleinsider.com/articles/26/11/23/eu-urges-to-challenge-apples-grip-on-iphone-browsers?utm_source=rss) ⭐️ 7.0/10
 
-包括 Mozilla 和 Shopify 在内的企业及民间组织联名致信欧盟委员会，要求对苹果 iPhone 浏览器限制正式立案调查。信方称署名方合计代表约 4.5 万至 5.5 万家欧盟企业组织，联署将持续征集至 2026 年 12 月 3 日。信方主张，苹果虽已按《数字市场法》允许欧盟竞品浏览器使用自有引擎，但技术与法律要求使厂商无法把现有欧盟用户迁出 WebKit，企业也更依赖 App Store 触达用户。联名方自行测算，若半数原生 iOS 应用转向 Web，欧盟企业每年可节省 110 亿欧元开发成本和 13 亿欧元 App Store 费用，这些数字属于联名方的估算而非独立核实结果。
+包括 Mozilla 和 Shopify 在内的企业与民间组织联名致信欧盟委员会，要求就苹果对 iPhone 浏览器的限制正式立案。信方称署名方合计代表约 4.5 万至 5.5 万家欧盟企业组织，联署将持续到 2026 年 12 月 3 日。信方主张，苹果虽已按《数字市场法》允许欧盟竞品浏览器使用自有引擎，但技术与法律要求仍使厂商无法把现有欧盟用户迁出 WebKit，企业也更依赖 App Store 触达用户。联名方自行测算，若半数原生 iOS 应用转为 Web 应用，欧盟企业每年可节省 110 亿欧元开发成本和 13 亿欧元 App Store 费用；这是倡导方的估算，并非监管机构或独立机构的结论。
 
 telegram · zaihuapd · 11月24日 03:02
 
-**「背景」** 欧盟《数字市场法》（DMA）自 2024 年起要求苹果允许用户选择默认浏览器，Mozilla 称此后欧盟地区 iPhone 上的 Firefox 日活翻倍。苹果随后在欧盟允许竞品浏览器使用自有引擎，但 Mozilla 指出非 WebKit 浏览器在 iOS 上仍难以落地，本次联名信正是针对这一执行落差要求欧盟委员会正式立案。
+**「背景」** 《数字市场法》（DMA）自 2024 年起要求苹果在欧盟允许用户选择默认浏览器，Mozilla 称此后数百万欧盟用户选择了 Firefox，iOS 上的日活使用量翻倍。但 Mozilla 指出，苹果仍通过浏览器引擎规则使 iPhone 上无法出现非 WebKit 内核的浏览器，这正是此次联名信要求欧盟立案审查的技术症结。
 
-**「影响与关注点」** 对 iOS 开发者和浏览器厂商而言，这一诉求的核心是能否真正把现有欧盟用户迁出 WebKit，而不只是获得名义上的引擎选择权；若欧盟委员会立案，相关技术与法律门槛可能成为审查重点。联名方给出的节省金额是其自身测算，尚不能视为已实现的成本变化。
+**「潜在影响」** 目前这只是请愿行动，欧盟委员会尚未宣布立案，因此对开发者的直接约束没有变化。若监管机构据此推进，受影响最大的将是已在欧盟上架竞品浏览器、却难以迁移存量用户的厂商，以及依赖 App Store 分发原生应用的欧盟企业；这些企业需要关注后续是否出现正式调查程序。
 
 <details><summary>参考链接</summary>
 <ul>
@@ -297,38 +291,320 @@ telegram · zaihuapd · 11月24日 03:02
 </ul>
 </details>
 
-**标签**: `#apple`, `#eu-regulation`, `#browsers`, `#digital-markets-act`, `#app-store`
+**标签**: `#apple`, `#eu-regulation`, `#digital-markets-act`, `#browsers`, `#webkit`
+
+---
+
+<a id="item-tech-news-11"></a>
+### [神舟二十四号定于 25 日发射，乘组首次包含巴基斯坦航天员](https://www.news.cn/20261124/3b116eb35c404cd7b897b23a50099b5b/c.html) ⭐️ 7.0/10
+
+中国载人航天工程新闻发言人张静波 11 月 24 日在酒泉宣布，神舟二十四号瞄准 11 月 25 日 8 时 18 分发射。乘组由指令长汤洪波、武毅和巴基斯坦航天员穆罕默德·齐尚·阿里组成，这是中国载人航天工程首个含外籍航天员的乘组，阿里将成为首位到访“天宫”的外籍航天员。飞船将采用 3.5 小时自主快速交会对接，对接天和核心舱前向端口。按计划，阿里之后将与张志远、黎家盈乘神舟二十三号返回。
+
+telegram · zaihuapd · 11月24日 04:08
+
+**「背景」** 神舟二十四号将是中国第 18 次载人飞行任务，也是神舟飞船首次搭载外国公民。此前，巴基斯坦航天员人选一直以“两名受训者中选一人担任载荷专家、执行短期在轨任务并乘神舟二十三号返回”的方式对外披露，当时尚未公布发射日期。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html">Pakistani astronaut to board Shenzhou 24 and become the first ...</a></li>
+<li><a href="https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video">China rolls out rocket for launch of 1 st international astronaut ... | Space</a></li>
+
+</ul>
+</details>
+
+**标签**: `#spaceflight`, `#china-space-program`, `#international-collaboration`, `#crewed-spacecraft`
+
+---
+
+<a id="item-tech-news-12"></a>
+### [黄循财：新加坡不会成为规避美国芯片管制的通道](https://www.bloomberg.com/news/articles/2026-11-24/singapore-won-t-be-conduit-to-skirt-us-chip-curbs-wong-says) ⭐️ 7.0/10
+
+新加坡总理黄循财表示，新加坡不会被当作企业规避美国芯片出口管制的通道，当局正在调查 Megaspeed 采购英伟达芯片的交易。此前一天，美国商务部已将 Megaspeed 及另外 6 家东南亚企业列入贸易黑名单，《联邦公报》称这些企业存在向未获授权用户转移先进计算产品的「重大风险」，名单包括其在马来西亚、泰国的关联实体。路透社报道，阿里巴巴新加坡子公司 Apex Enterprise Solutions 同样在列，阿里称从未转移受管制的先进计算芯片。
+
+telegram · zaihuapd · 11月24日 05:03
+
+**「背景」** 美国商务部于本周一在《联邦公报》发布正式通知，将总部位于新加坡的 Megaspeed 及其泰国、马来西亚子公司列入贸易黑名单，限制其采购先进半导体芯片。此前，美国商务部和司法部已就 Megaspeed 的调查发布联合声明，该案因涉及英伟达而受到广泛关注。
+
+**「影响」** 对在新加坡及东南亚运营的 AI 硬件采购方和转售商而言，被列入黑名单意味着与美国供应商的交易将受到出口许可限制，相关企业需核查自身及关联实体的最终用户与最终用途合规情况。新加坡总理的公开表态也表明，当地监管机构可能加强对芯片采购交易的审查。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia">US adds Megaspeed, AI firm at center of Nvidia scandal, to ...</a></li>
+<li><a href="https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation">Joint Statement from Department of Commerce and Department of ...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#export-controls`, `#AI-hardware`, `#semiconductors`, `#Nvidia`, `#Singapore`
 
 ---
 
 ## 财经新闻
 
 <a id="item-finance-news-1"></a>
-### [纽约联储主席威廉姆斯：通胀仍高，加息需“随时间推进”](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) ⭐️ 7.0/10
+### [纽约联储主席威廉姆斯：通胀仍高，加息需“随时间推进”](https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html) ⭐️ 8.0/10
 
-纽约联储主席约翰·威廉姆斯 11 月 23 日表示，美联储仍需采取行动把通胀拉回 2%目标，但可以在“随时间推进”中完成；他预计通胀 2027 年接近目标、次年达标。市场目前完全预期 12 月 8-9 日会议加息 25 个基点，将联邦基金利率目标区间从 3.75%-4%上调。
+纽约联储主席约翰·威廉姆斯 11 月 23 日表示，美联储仍需采取行动把通胀拉回 2%目标，但暗示这些行动可以“随时间推进”；市场目前完全预期 12 月 8-9 日会议将把利率目标区间从 3.75%-4%上调 25 个基点。
 
 rss · CNBC Finance · 11月23日 21:02
 
-**「背景」** 美联储官员对加息速度存在分歧，部分主张更激进，威廉姆斯等人强调循序渐进；他把当前通胀压力归因于伊朗冲突、AI 建设相关商品需求和关税，并称关税影响“已基本消退”。
+**「背景」** 威廉姆斯预计通胀将在 2027 年接近 2%、次年达标，并把当前价格压力归因于伊朗冲突、人工智能建设相关商品需求以及关税，同时称关税带来的影响“已基本消退”；这是 12 月议息会议前美联储官员最后一次重要政策表态。
 
-**「影响」** 若 12 月如期加息，与利率挂钩的浮动利率贷款（如信用卡、部分企业贷款）借贷成本将上升，而储蓄类产品收益率可能随之提高。
+**「影响」** 若 12 月如期加息，与利率挂钩的浮动利率贷款（如信用卡和部分企业贷款）成本将上升，而按揭等长期利率则更多取决于市场对后续路径的预期。
 
 **标签**: `#Federal Reserve`, `#monetary policy`, `#interest rates`, `#inflation`, `#FOMC`
 
 ---
 
 <a id="item-finance-news-2"></a>
+### [黄仁勋回归英伟达，美股应声反弹](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html) ⭐️ 7.0/10
+
+英伟达重新任命黄仁勋为首席执行官后，美国三大股指周一大幅上涨；此前标普 500 指数自 11 月 12 日黄仁勋离任消息公布至上周五累计下跌逾 9%，进入回调区间。
+
+rss · CNBC Finance · 11月23日 18:00
+
+**「背景」** 这轮抛售的起因早于黄仁勋职位变动，包括市场对 AI 基建融资、中期选举后数据中心审批以及大型云厂商资本开支可能见顶的担忧。
+
+**「影响」** 多位策略师认为反弹可能只是暂时止跌，其中 Freedom Capital Markets 的 Jay Woods 称这更像下跌趋势中的逆势反弹，后续国会听证等仍可能重新引发对英伟达及 AI 相关交易的疑问。
+
+**标签**: `#Nvidia`, `#US equities`, `#AI trade`, `#market correction`, `#CEO change`
+
+---
+
+<a id="item-finance-news-3"></a>
+### [Anthropic 创纪录 IPO 后 AI 股遭抛售，中国 AI 公司上市计划承压](https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo) ⭐️ 7.0/10
+
+Anthropic 完成 1195 亿美元创纪录 IPO 后，全球 AI 相关股票加速下跌，中国科技股自 6 月底以来累计市值蒸发 1.7 万亿美元，DeepSeek、月之暗面（Moonshot AI）和阶跃星辰的上市计划因此面临不确定性；报道称这三家公司均在筹备或考虑发行股份，但尚未确认。
+
+telegram · zaihuapd · 11月23日 09:31
+
+**「背景」** Anthropic 上市首日股价上涨 17%、市值达 1.8 万亿美元，次日即下跌 8.5%；同期智谱较 6 月高点跌超 85%（此前半年曾涨 2000%），MiniMax 本月跌破发行价。
+
+**「影响」** 若抛售持续，正在筹备上市的中国 AI 企业可能面临更低的发行估值和更谨慎的投资者认购意愿。
+
+**标签**: `#AI selloff`, `#China tech stocks`, `#IPOs`, `#Anthropic`, `#market volatility`
+
+---
+
+<a id="item-finance-news-4"></a>
 ### [上海地铁票价 21 年来首次调整，12 月 1 日起实施](https://weibo.com/1699432410/5368461393397183) ⭐️ 7.0/10
 
-上海地铁宣布 21 年来首次调整票价，新方案起乘价 3 元、覆盖 0 至 4 公里，12 月 1 日起实施；同步推出 190 元至 390 元四档计次票，并对同一支付渠道当月累计满 90 元的乘客给予 9 折优惠。
+上海轨道交通票价时隔 21 年首次调整，新方案设 3 元起乘价、覆盖 0 至 4 公里，之后按 4、4、4、7、7、10、10 公里分段每段加 1 元，50 公里以上每 15 公里加 1 元，自 12 月 1 日起实施。
 
 telegram · zaihuapd · 11月23日 10:45
 
-**「背景」** 这是上海轨道交通自 2005 年前后以来首次调整票价，新方案按里程分段加价：4 公里后依次按 4、4、4、7、7、10、10 公里加 1 元，50 公里以上每 15 公里加 1 元。
+**「背景」** 这是上海地铁自 2005 年前后以来首次调整票价；同步推出的 35 次、45 次、60 次、90 次四档计次票定价 190 元、210 元、270 元、390 元，11 月 26 日开售，同一支付渠道当月累计满 90 元后享 9 折，官方称主要目的是减少调价对高频出行人群的影响。
 
-**「影响」** 计次票和满额 9 折优惠主要面向高频通勤人群，意在减轻调价对日常出行成本的影响；计次票于 11 月 26 日开售。
+**「影响」** 日常通勤者将按新里程分段付费，高频乘客可通过计次票或当月满 90 元后的 9 折优惠部分抵消涨价影响。
 
-**标签**: `#public transport`, `#pricing`, `#Shanghai`, `#policy change`, `#consumer impact`
+**标签**: `#public transit pricing`, `#Shanghai`, `#urban policy`, `#consumer impact`, `#transportation`
+
+---
+
+<a id="item-finance-news-5"></a>
+### [马斯克承认 SpaceX 在 AI 领域落后，转而向 Anthropic 和 Google 出租算力](https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html) ⭐️ 7.0/10
+
+《纽约时报》11 月 23 日报道，自今年 5 月起，SpaceX 每月从其数据中心向 Anthropic、Google 等公司出租算力，月收入达数十亿美元。三名知情人士称，马斯克向员工表示 SpaceX 在 AI 上落后，出租算力比自用更赚钱。
+
+telegram · zaihuapd · 11月24日 02:06
+
+**「背景」** 据《纽约时报》报道，SpaceX 此前已与 xAI 合并，而马斯克本人的人工智能业务在竞争中处于落后位置，因此将数据中心算力对外出租。据科技媒体 techzine 报道，Google 与 SpaceX 签署了为期 32 个月的协议，从 2026 年 10 月到 2029 年 6 月，每月支付 9.2 亿美元，获得约 11 万块英伟达 GPU 的使用权。
+
+**「影响」** 若该报道属实，SpaceX 将获得一条与火箭发射无关的经常性收入来源，而 Anthropic 和 Google 则能以租用方式扩充算力，无需自建同等规模的数据中心。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html">Elon Musk Faces an A.I. Dilemma at SpaceX - The New York Times</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup">SpaceX secures option to buy AI startup Cursor for... | The Guardian</a></li>
+<li><a href="https://www.techzine.eu/news/infrastructure/141896/google-to-pay-spacex-920m-every-month-for-xai-compute/">Google to pay SpaceX $920M every month for xAI compute</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI infrastructure`, `#SpaceX`, `#Anthropic`, `#Google`, `#data centers`
+
+---
+
+## 校招岗位
+
+<a id="item-campus-jobs-1"></a>
+### [字节跳动 Agent 开发工程师校招](https://www.nowcoder.com/jobs/detail/470715) ⭐️ 10.0/10
+
+字节跳动招聘 Agent 开发工程师，工作城市为北京，薪资 25-35K·16 薪。学历要求为本科，届别标注为“毕业不限”，但职位要求中明确写明“2027 届本科及以上学历在读”，计算机、软件工程等相关专业优先。岗位负责抖音系产品测试领域的核心 Agent 及功能链路开发，参与 Agent 框架搭建、提示词调优、工具开发、上下文管理等环节。技术栈明确涉及 Multi-Agent、Context Engineering/Management、ReAct/PlanAct/CodeAct 等 Agent 架构，以及 MCP、A2A、FunctionCall 等交互协议，并涉及提示工程、评估框架、代理框架与检索框架，与软件工程本科生从事 AI Agent 开发的方向高度契合；SFT、RL 训练优化与端到端跨技术栈开发为加分项。
+
+nowcoder · 字节跳动 · 10月14日 10:36
+
+**「投递方式」** 岗位信息发布在牛客网，可通过该职位页面投递：https://www.nowcoder.com/jobs/detail/470715。来源未提供截止日期与具体招聘流程。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#2027届`, `#软件工程`
+
+---
+
+<a id="item-campus-jobs-2"></a>
+### [百川智能 Agent 算法工程师校招岗位](https://www.nowcoder.com/jobs/detail/464916) ⭐️ 10.0/10
+
+百川智能招聘【源点顶尖人才计划】Agent 算法工程师，工作城市为北京，面向 2025 年至 2027 年毕业的应届生，学历要求为本科及以上，薪资为 30-80K·16 薪。该岗位与软件工程本科生对 AI Agent 开发的兴趣高度匹配：职责明确包括参与大模型 Agent 核心算法研发、构建通用及领域 Agent，并研究规划与推理、工具调用、记忆、Agent Loop、Harness 等核心机制，以及探索多智能体协作、长程任务执行和自学习等前沿方向。岗位要求中明确提到熟悉 Prompt、了解 Agent 发展历史中的关键技术（如 Tool Use、Agent Loop、Harness、Loop Engineer 等），加分项包括有解决真实问题的 Agent 项目实践。学历要求为“本科及以上”，未限定硕士或博士，因此本科生符合基本学历门槛。
+
+nowcoder · 百川智能 · 9月2日 11:04
+
+**「申请方式」** 该岗位通过牛客网发布，可访问岗位详情页投递：https://www.nowcoder.com/jobs/detail/464916。来源未提供截止日期或具体招聘流程信息。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#2027届`, `#算法工程师`
+
+---
+
+<a id="item-campus-jobs-3"></a>
+### [携程 2027 届秋招 Agent 开发工程师](https://www.nowcoder.com/jobs/detail/463573) ⭐️ 10.0/10
+
+携程在上海招聘 Agent 开发工程师，面向 2027 届秋招，招聘对象为本、硕、博，毕业时间需在 2026 年 9 月至 2027 年 8 月之间且最高学历毕业后无全职工作经验，薪资面议。岗位要求明确写为“本科及以上学历，计算机等相关专业”，因此本科生可以投递，并非硕士或博士专属。职责覆盖 Agent 应用工程开发与 AI 产品上线、Agent 基础开发框架建设、Agent 记忆系统设计与上下文一致性保障、Agent 评测与观测能力建设，以及 Agent 注册、管理、发现的架构设计与系统开发。要求中直接点名 LangChain、LlamaIndex、CrewAI 等至少一种 Agent 开发框架，并鼓励使用 Cursor、Claude 等 AI 编程工具，与软件工程本科生做 AI Agent 开发的方向高度契合；加分项包括 AI 产品原型到上线的实践和前后端开发经验。
+
+nowcoder · 携程 · 8月26日 10:09
+
+**「投递方式」** 岗位信息发布在牛客网（nowcoder）的职位详情页，可通过该页面投递：https://www.nowcoder.com/jobs/detail/463573。来源未提供截止日期和具体笔面试流程，建议以页面最新信息为准。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#2027届`, `#LangChain`
+
+---
+
+<a id="item-campus-jobs-4"></a>
+### [小米武汉 Agent Harness 研发工程师岗位](https://www.nowcoder.com/jobs/detail/459579) ⭐️ 10.0/10
+
+小米集团在武汉招聘 Agent Harness 研发工程师，学历不限、届别不限，薪资面议。岗位要求熟悉 Agent Loop、Tool Use、Planning、Skills、MCP、Memory、Sub-agent、Multi-Agent 等 Agent 核心概念与技术栈，并深度使用过 Claude Code、Codex 等主流 Agent/Harness 产品，同时至少精通 Python、TypeScript、Go 中的一种语言。职责包括自研 Harness 框架、实现零售/客服/研发/供应链/办公等行业 Agent，以及从 Context Engineering、Harness Engineering 角度优化任务完成率。该岗位未设本科及以上或硕博门槛，软件工程本科生可直接投递，且加分项接受课程项目与开源项目经验，与 AI Agent 开发方向高度契合。
+
+nowcoder · 小米集团 · 8月12日 07:24
+
+**「投递方式」** 岗位信息发布于牛客网，可通过原链接 https://www.nowcoder.com/jobs/detail/459579 查看并投递；来源未提供截止日期或具体招聘流程。
+
+**标签**: `#agent`, `#llm`, `#学历不限`, `#本科可投`, `#MCP`, `#multi-agent`
+
+---
+
+<a id="item-campus-jobs-5"></a>
+### [小红书北京 AI 岗：本科可投 Agent 研发](https://www.nowcoder.com/jobs/detail/467173) ⭐️ 9.0/10
+
+小红书在北京招聘“人工智能”岗位，毕业届别不限，薪资 25-35K·12 薪。学历要求方面，岗位要求明确写“本科及以上学历，计算机等相关专业”，因此本科生符合投递条件；来源中“学历要求”一栏写“学历不限”，与正文的“本科及以上”表述不完全一致，建议以正文要求为准。该岗位与软件工程本科生做 Agent 开发的目标高度契合：职责包括参与公司级 AI Agent、AI Coding Agent 与 AI 个人助理研发，覆盖任务规划、代码实现、测试验证、发布部署与问题诊断；工作方向涉及 Agent Harness 架构、工具与技能生态、Memory 与个性化系统、Agent 评测与数据飞轮。要求中明确提到 function calling、流式交互、推理服务、MCP 等协议生态，主流 Agent Harness 框架与 AI Coding 工具链，以及 Go/Java/Python/C++至少精通一门。有 Code Agent、代码智能、Agent 评测体系、CI/CD 与测试验证平台经验者优先，顶会一作论文或头部大厂、顶级实验室实习经历也属加分项而非硬性门槛。
+
+nowcoder · 小红书 · 9月11日 10:10
+
+**「投递方式」** 可通过牛客网该岗位详情页投递，链接为 https://www.nowcoder.com/jobs/detail/467173。来源未提供截止日期或具体招聘流程信息。
+
+**标签**: `#agent`, `#ai-coding`, `#本科可投`, `#llm`, `#mcp`
+
+---
+
+<a id="item-campus-jobs-6"></a>
+### [中城交（上海）Agent 开发工程师校招岗](https://www.nowcoder.com/jobs/detail/463747) ⭐️ 9.0/10
+
+中城交（上海）科技有限公司招聘「Agent 开发工程师」，工作城市为上海，学历要求为本科及以上，届别不限（未限定 2026/2027 届），薪资为 20-50K·12 薪。该岗位与软件工程本科生投递 AI Agent 方向高度匹配：职责直接围绕核心智能 Agent 的整体架构设计与全流程开发，基于大模型结合 Agent Harness 工程体系完成 Agent 编排、工具调用、记忆模块、规划模块的开发与迭代。任职要求明确列出 Agent Harness 工程体系、任务规划、工具调用、上下文记忆、多轮交互编排等核心模块技能，并要求熟练使用 Python、具备从 0 到 1 搭建与迭代核心 Agent 的能力，加分项包括企业级 Agent 落地经验、主流 Agent 开源框架、大模型微调与 Prompt 工程实战。学历门槛为「本科及以上」，计算机、人工智能、软件工程等相关专业优先，未要求硕士或博士，本科生可直接投递。
+
+nowcoder · 中城交（上海）科技有限公司 · 8月27日 02:17
+
+**「投递方式」** 该岗位信息发布在牛客网（nowcoder）职位详情页，可通过 https://www.nowcoder.com/jobs/detail/463747 查看并投递。原始信息未提供截止日期、笔试面试流程等具体安排。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#毕业不限`, `#上海`
+
+---
+
+<a id="item-campus-jobs-7"></a>
+### [携程 2027 届秋招 AI Agent 开发岗](https://www.nowcoder.com/jobs/detail/463580) ⭐️ 9.0/10
+
+携程招聘大数据平台开发工程师（AI Agent 方向），属于 2027 届秋招，工作城市为上海，薪资面议。招聘对象明确为本、硕、博，毕业时间需在 2026 年 9 月至 2027 年 8 月之间，且最高学历毕业后无全职工作经验；学历要求写的是“学历不限”，并未限定硕士或博士，因此本科生可以投递。岗位职责聚焦智能数据分析 Agent 的核心优化与迭代，包括优化 Agent 推理逻辑与交互范式以降低幻觉、改造执行链路提升分析过程可追溯性、通过模型调用策略与工程优化降低篇均报告的 Token 消耗与算力成本，以及对接数据看板与报表接口开发 Agent 新能力。岗位要求具备扎实的 Python 开发能力、LLM 实际使用经验、对 Agent 搭建逻辑与运行原理的深入理解，有 Agent 构建、Prompt Engineering 及调优经验者优先，并了解数据分析流程、熟悉 SQL 与 Pandas 者更佳。对软件工程本科生而言，该岗位在 Agent 开发、Prompt Engineering 与 LLM 工程优化方面高度契合，仅数据分析与 SQL 背景可能构成小幅差距。
+
+nowcoder · 携程 · 8月26日 10:20
+
+**「投递方式」** 岗位信息发布在牛客网，可通过原链接 https://www.nowcoder.com/jobs/detail/463580 查看并投递；来源未提供具体截止日期或笔试面试流程。投递前需确认毕业时间在 2026 年 9 月至 2027 年 8 月之间，且最高学历毕业后无全职工作经验。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#2027届`, `#prompt-engineering`
+
+---
+
+<a id="item-campus-jobs-8"></a>
+### [快手快 Star 大模型 Agent 算法工程师（短视频推荐）](https://www.nowcoder.com/jobs/detail/460823) ⭐️ 9.0/10
+
+快手招聘「【快 Star】大模型 Agent 算法工程师-短视频推荐方向」，工作城市为北京，面向 2027 届毕业生，学历要求为「学历不限」，薪资面议。该岗位与软件工程本科生从事 AI Agent 开发的方向高度匹配：职责明确要求打造具备自主规划（Planning）、工具调用（Tool Use）、长短期记忆（Memory）、多 Agent 协同（Multi-Agent）能力的智能推荐 Agent，并探索 Agent 在推荐全链路中的应用。岗位要求中列出理解 Prompt Engineering、Agent、RAG、Function Calling、Memory、Tool Use 等主流 Agent 技术体系，有实际项目经验者优先，同时要求熟悉 Python/C++、Transformer 与大语言模型、PyTorch/TensorFlow 等。由于学历要求为「学历不限」而非硕士/博士限定，本科生可以投递；方向偏向短视频推荐场景的 Agent 应用落地，而非纯 Agent 框架研究。
+
+nowcoder · 快手 · 8月17日 07:21
+
+**「投递方式」** 岗位信息发布在牛客网，可通过职位详情页投递：https://www.nowcoder.com/jobs/detail/460823。来源未提供截止日期或具体招聘流程说明。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#2027届`, `#推荐系统`
+
+---
+
+<a id="item-campus-jobs-9"></a>
+### [快手快 Star Data Agent 研发工程师（2027 届本科）](https://www.nowcoder.com/jobs/detail/460774) ⭐️ 9.0/10
+
+快手招聘【快 Star】Data Agent 研发工程师，工作城市为北京，面向 2027 届毕业生，薪资面议。学历要求为“本科及以上”，计算机相关专业，应届或 Gap year 均可，因此本科生符合投递门槛，并非硕士/博士专属。岗位职责直接涉及 Multi-Agent 框架工程研发、Agent+Skill 多智能体协作、RAG、知识图谱、上下文压缩与记忆管理、模型微调与强化学习等 Agent 核心技术，与软件工程本科生做 AI Agent 方向高度匹配。岗位要求具备 Java 后端与 Spring 框架基础，并对 LLM 有基本认知（Prompt Engineering、RAG、Function Calling），纯软件工程背景需补充 LLM 相关知识。加分项包括 AI Agent/LLM 应用项目、Text2SQL/RAG/知识图谱实践及主流大模型微调经验。
+
+nowcoder · 快手 · 8月17日 04:05
+
+**「投递方式」** 可通过牛客网岗位详情页投递，链接为 https://www.nowcoder.com/jobs/detail/460774。来源未提供截止日期或具体招聘流程信息。
+
+**标签**: `#agent`, `#multi-agent`, `#llm`, `#本科可投`, `#2027届`
+
+---
+
+<a id="item-campus-jobs-10"></a>
+### [快手电商大模型应用算法工程师（2027 届）](https://www.nowcoder.com/jobs/detail/460615) ⭐️ 8.0/10
+
+快手在杭州招聘“大模型应用算法工程师-电商方向”，面向 2027 届，薪资面议。岗位要求写明“本科及以上学历”，专业为计算机、人工智能、数学相关，因此本科生可以投递；页面学历栏另写“学历不限”，但具体条款以“本科及以上”为准。岗位职责明确包含搭建 Agents、RAG、function call、system prompts 等大模型应用中台模块，并涉及 LLM 及多模态大模型的微调、prompts 调优、指令构建与演化，与 AI Agent 开发方向高度相关。同时岗位还要求对计算机视觉、自然语言处理、多模态、知识图谱、机器学习有深入理解并有项目经验，技术面较宽，并非纯 Agent 岗位。对软件工程本科生而言，工程实现能力（C/C++、Python、Java 至少一门）是明确加分项，但需补足大模型微调/RLHF 及多模态相关项目经验。
+
+nowcoder · 快手 · 8月17日 03:12
+
+**「投递方式」** 可通过牛客网该岗位详情页投递：https://www.nowcoder.com/jobs/detail/460615。来源未提供截止日期或具体招聘流程，建议以页面最新信息为准。
+
+**标签**: `#agent`, `#llm`, `#rag`, `#本科可投`, `#2027届`
+
+---
+
+<a id="item-campus-jobs-11"></a>
+### [新华三苏州 AI 大模型算法工程师本科可投](https://www.nowcoder.com/jobs/detail/475028) ⭐️ 7.0/10
+
+新华三在苏州招聘 AI 大模型算法工程师（工业业务），岗位编号 J18898，学历要求为本科，届别为毕业不限，薪资 11-15K·14 薪。该岗位职责明确包含“开发场景工业智能体”，并涉及 AI 算法与模型训练微调、数据采集整理，与软件工程本科生对 AI Agent 开发的兴趣直接相关。岗位要求中提及对工业智能体、大模型、数据治理感兴趣并愿意长期从事，专业方向包括计算机、人工智能、大数据、通信电子等。需要注意的是，该岗位更偏向算法训练微调与数据工作，而非纯 Agent 工程开发，属于较好但非强匹配。
+
+nowcoder · 新华三 · 11月9日 06:00
+
+**「申请方式」** 可通过牛客网岗位详情页投递，链接为 https://www.nowcoder.com/jobs/detail/475028 。来源未提供截止日期或具体招聘流程信息。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#工业智能体`, `#算法工程师`
+
+---
+
+<a id="item-campus-jobs-12"></a>
+### [新华三 AI 大模型数据策略工程师校招](https://www.nowcoder.com/jobs/detail/475035) ⭐️ 6.0/10
+
+新华三招聘 AI 大模型数据策略工程师（J18894），工作地点为杭州、北京，毕业届别不限，薪资 11-15K·14 薪。岗位要求数学、统计、计算机、人工智能相关专业统招本科及以上学历，即明确接受本科生，未要求硕士或博士。该岗位核心是大模型数据工程与数据策略，职责包括 LLM 数据工程、预训练数据质量提升、场景应用数据方案设计等；其中“Agent，RAG 等全流程数据工具链建设”与“场景智能体、知识库、知识图谱开发经验者优先”直接涉及 Agent 相关技术，但整体偏数据侧而非 Agent 开发本身，因此对想从事 AI Agent 开发的软件工程本科生属于部分匹配。要求中提及熟练使用 Python、了解大模型 post-train 技术原理，具备机器学习、深度学习、NLP 经验者优先。
+
+nowcoder · 新华三 · 11月9日 06:07
+
+**「申请方式」** 可通过牛客网该岗位详情页投递，链接为 https://www.nowcoder.com/jobs/detail/475035 。来源未提供截止日期或具体招聘流程信息。
+
+**标签**: `#llm`, `#agent`, `#本科可投`, `#数据工程`, `#RAG`
+
+---
+
+<a id="item-campus-jobs-13"></a>
+### [百度大模型应用实习生（上海·2028 届）](https://www.nowcoder.com/jobs/detail/466090) ⭐️ 6.0/10
+
+百度（中国）有限公司在上海招聘“大模型应用方向实习生”，面向 2028 届，学历要求为本科及以上，薪资面议。岗位职责明确包含推动大模型智能体在结构化信息抽取、智慧招采等业务中落地，并设计面向具体任务的 Agent 工作流，涉及多轮交互、自主纠错、动态工具选择，同时要求保证智能体在真实场景中的高可用性与可解释性，这与 AI Agent 开发方向直接相关。岗位还要求熟悉 PyTorch、具备工程能力（Flask、MySQL、Docker），并优先考虑有多模态大模型调优、SFT、GRPO、VLLM 推理部署经验者，说明工作重心偏向多模态大模型算法调研、prompt 工程与效果优化。需注意这是实习岗位而非全职校招，且届别限定 2028 届，对 2026/2027 届本科生并不适用；学历门槛为“本科及以上”，未要求硕士或博士。
+
+nowcoder · 百度（中国）有限公司 · 9月8日 02:53
+
+**「投递方式」** 岗位信息发布在牛客网，可通过原帖页面投递：https://www.nowcoder.com/jobs/detail/466090。来源未提供截止日期或具体招聘流程，建议以页面最新信息为准。
+
+**标签**: `#agent`, `#llm`, `#本科可投`, `#实习`, `#2028届`, `#多模态`
+
+---
+
+<a id="item-campus-jobs-14"></a>
+### [阿里巴巴杭州算法工程师：多模态为主，Agent 为辅](https://www.nowcoder.com/jobs/detail/461054) ⭐️ 6.0/10
+
+阿里巴巴集团在杭州招聘算法工程师，学历要求为“学历不限”，届别为“毕业不限”，薪资面议，因此本科生可以投递。岗位核心是多模态算法与模型的研究开发，包括文本-图像、文本-视频等跨模态算法研发优化，以及跨模态内容理解/生成技术的创新落地。与 AI Agent 直接相关的是职责第 3 条：探索 AI 智能体（Agent）新范式，构建以多模态大模型为核心的 AI 助手；此外职责第 4 条要求追踪多模态 AI、理解&amp;生成、LLM 等方向进展。整体看，Agent 只是四项职责之一，岗位更看重 NLP/CV/ML 顶会发表、大规模模型训练工程经验、高质量论文或开源项目等，属于带 Agent 曝光的多模态算法研究岗，而非以 Agent 开发为主。
+
+nowcoder · 阿里巴巴集团 · 8月17日 10:51
+
+**「投递方式」** 可通过牛客网岗位详情页投递：https://www.nowcoder.com/jobs/detail/461054。来源未提供截止日期、笔试面试流程等更多申请细节。
+
+**标签**: `#agent`, `#llm`, `#多模态`, `#学历不限`, `#算法工程师`
 
 ---
